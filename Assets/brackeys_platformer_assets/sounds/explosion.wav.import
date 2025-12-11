@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/explosion.wav-ed5352e0e59aa8369ad4fa103ba0bd57.sample"
+type="AudioStreamWAV"
+uid="uid://n7sy8b5gig33"
+path="res://.godot/imported/explosion.wav-ed5352e0e59aa8369ad4fa103ba0bd57.sample"
 
 [deps]
 
 source_file="res://Assets/brackeys_platformer_assets/sounds/explosion.wav"
-dest_files=[ "res://.import/explosion.wav-ed5352e0e59aa8369ad4fa103ba0bd57.sample" ]
+dest_files=["res://.godot/imported/explosion.wav-ed5352e0e59aa8369ad4fa103ba0bd57.sample"]
 
 [params]
 
